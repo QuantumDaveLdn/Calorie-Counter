@@ -1,4 +1,4 @@
-# Calorie Counter (Modern)
+# Calorie Counter
 
 A web-based application to track daily calorie intake and expenditure against a set budget, featuring a dynamic background animation.
 
